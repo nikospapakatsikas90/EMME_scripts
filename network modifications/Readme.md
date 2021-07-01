@@ -9,6 +9,10 @@ Opened and run with EMME Notebook and includes basic functions that can be perfo
 * Add centroids from a .csv file with id numbers and coordinates.
 * ...
 
+*Author*: Nikos Papakatsikas
+
 ## Another_script.py
 
 Copy objects from one database to another...
+
+*Author*: Sven Svensson
